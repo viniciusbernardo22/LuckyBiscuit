@@ -28,6 +28,7 @@ class App extends Component {
   quebrarBiscoito = () => {
     const tamanhoLista = this.frases.length
     const i = Math.floor(Math.random() * tamanhoLista);
+    
     this.setState({
       textoFrase: this.frases[i],
       img: require('./src/biscoitoAberto.png')
