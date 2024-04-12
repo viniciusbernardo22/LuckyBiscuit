@@ -17,13 +17,7 @@ O aplicativo "Biscoitos da Sorte" é uma ferramenta divertida e inspiradora que 
 
 1. Abra o aplicativo "Biscoitos da Sorte".
 2. Clique no botão "Quebrar biscoito" para receber uma nova frase inspiradora.
-3. Para compartilhar uma frase, clique no botão de compartilhamento e selecione a opção desejada.
-4. Repita o processo para receber mais mensagens motivacionais ao longo do dia.
+3. Repita o processo para receber mais mensagens motivacionais ao longo do dia.
 
-## Contribuindo
-
-Contribuições são bem-vindas! Se você tiver sugestões de novas funcionalidades, melhorias na interface ou correções de bugs, sinta-se à vontade para enviar um pull request.
-
-## Contato
-
-Se você tiver alguma dúvida, problema ou feedback, entre em contato conosco através do email: [seuemail@example.com](mailto:seuemail@example.com).
+![Print1](readme_images/biscuit1.png)
+![Print2](readme_images/biscuit2.png)
