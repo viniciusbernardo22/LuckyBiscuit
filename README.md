@@ -5,13 +5,15 @@ O aplicativo "Biscoitos da Sorte" é uma ferramenta divertida e inspiradora que 
 
 ## Funcionalidades
 
-- **Frases Inspiradoras**: Receba mensagens motivacionais e reflexivas aleatórias a cada vez que abrir o aplicativo.
-- **Compartilhamento**: Compartilhe suas frases favoritas com amigos e familiares através das redes sociais ou aplicativos de mensagens.
-- **Interface Simples**: Uma interface limpa e intuitiva para uma experiência de usuário agradável.
+- **Quebrar biscoito**: Retorna uma mensagem aleatória.
 
 ## Instalação
 
-1. Clone o repositório do aplicativo para o seu ambiente local.
+1. Certifique-se de ter o ambiente de desenvolvimento React Native configurado em sua máquina.
+2. Clone o repositório do aplicativo para o seu ambiente local.
+3. Execute o comando `npm install` para instalar as dependências.
+4. Execute o aplicativo em um emulador ou dispositivo usando o comando `npx react-native run-android` ou `npx react-native run-ios`, dependendo da plataforma alvo.
+
 
 ## Como Usar
 
